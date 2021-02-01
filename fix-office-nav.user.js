@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Fix Office Navigation
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  Fix apps navigation to see all labels
 // @author       Gareth Slade
 // @match        https://www.office.com/*
 // @grant        none
+// @downloadURL	 https://github.com/gslade-contino/tampermonkey-scripts/raw/main/fix-office-nav.user.js
 // ==/UserScript==
 
 window.onload = function() {
