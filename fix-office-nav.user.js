@@ -6,6 +6,7 @@
 // @author       Gareth Slade
 // @match        https://www.office.com/*
 // @grant        none
+// @updateURL	 https://github.com/gslade-contino/tampermonkey-scripts/raw/main/fix-office-nav.user.js
 // @downloadURL	 https://github.com/gslade-contino/tampermonkey-scripts/raw/main/fix-office-nav.user.js
 // ==/UserScript==
 
